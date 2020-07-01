@@ -21,3 +21,7 @@ This is an anomaly detection model using deep learning. I have designed and trai
 > [S&P500 Daily Prices 1986 - 2018](https://www.kaggle.com/pdquant/sp500-daily-19862018)
 
 # Results
+![Date Vs Closing price anomalies](images/newplot_2.png)
+
+# Note
+> Download the python notebook and given data set and run the code in jupyter-notebook or Google Colab to experiance the interactive plots.
