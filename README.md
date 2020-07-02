@@ -5,11 +5,12 @@ This is an anomaly detection model using deep learning. I have designed and trai
 ## What is Autoencoder?
 > An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner. The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”.
 [Source](https://en.wikipedia.org/wiki/Autoencoder#:~:text=An%20autoencoder%20is%20a%20type,to%20ignore%20signal%20%E2%80%9Cnoise%E2%80%9D)
+![Autoencoder](images/AE.png)
 
 ## What is LSTM?
 > Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data. 
 [Source](https://en.wikipedia.org/wiki/Long_short-term_memory)
-
+![LSTM](images/LSTM3-chain.png)
 ## What is anomaly detection?
 > In data mining, anomaly detection is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data.
 [Source](https://en.wikipedia.org/wiki/Anomaly_detection)
